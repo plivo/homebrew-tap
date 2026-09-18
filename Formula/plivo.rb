@@ -5,23 +5,23 @@ class Plivo < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/plivo/plivo-cli/releases/download/v1.0.1/plivo_darwin_arm64"
-      sha256 "89f35585159f2229e184057e0447e4db64eb21d60ff2dee603b964ed8fbc11f1"
+      url "https://github.com/plivo/plivo-cli/releases/download/v1.1.0/plivo_darwin_arm64"
+      sha256 "b611ddb0d4a2c05cd94aac01b9bd003531a3212df4886e389ddf47f2e24cacc7"
     end
     on_intel do
-      url "https://github.com/plivo/plivo-cli/releases/download/v1.0.1/plivo_darwin_amd64"
-      sha256 "b8cc56f3a35395d3feb0ead7f457fad1483565eb79c7f402e86d9512d1d3f7c0"
+      url "https://github.com/plivo/plivo-cli/releases/download/v1.1.0/plivo_darwin_amd64"
+      sha256 "bc76e72bd794aaa268f0b988dd8ed290618e801d2947b1e967ecc29be195e234"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/plivo/plivo-cli/releases/download/v1.0.1/plivo_linux_arm64"
-      sha256 "e9fe361978ae38f66dd84a0502261e102a2f08015f1a0c57221d6176e03e3482"
+      url "https://github.com/plivo/plivo-cli/releases/download/v1.1.0/plivo_linux_arm64"
+      sha256 "3ca357a2093615890661aa4740680c4732c26e43e547e1ee52b21242bb72a3fb"
     end
     on_intel do
-      url "https://github.com/plivo/plivo-cli/releases/download/v1.0.1/plivo_linux_amd64"
-      sha256 "7a317a0329d45ee1a7b047867208cced6b98521aa1d3d09f8c0ad0efb846b5a1"
+      url "https://github.com/plivo/plivo-cli/releases/download/v1.1.0/plivo_linux_amd64"
+      sha256 "707c4b792c6b20b175058f3725cea3c5fc58db5dad1b52f95ff97537d55f90c8"
     end
   end
 
