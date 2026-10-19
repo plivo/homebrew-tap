@@ -1,16 +1,16 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "Command-line interface for the Plivo API",
   "homepage": "https://github.com/plivo/plivo-cli",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/plivo/plivo-cli/releases/download/v1.2.1/plivo_windows_amd64.exe#/plivo.exe",
-      "hash": "67e2c6748b1fd059cb94f436404824de3431bca4d175dd9437da58b216a07407"
+      "url": "https://github.com/plivo/plivo-cli/releases/download/v1.3.0/plivo_windows_amd64.exe#/plivo.exe",
+      "hash": "a4b0587eb06dff0dbf84d360977d997545c73e2bb42c8a51f8eeccabe4e81607"
     },
     "arm64": {
-      "url": "https://github.com/plivo/plivo-cli/releases/download/v1.2.1/plivo_windows_arm64.exe#/plivo.exe",
-      "hash": "8be0dd08ef7a77f389e618c3ad78a54ca4e6453d508ebc6b8ec1512cf9a8f117"
+      "url": "https://github.com/plivo/plivo-cli/releases/download/v1.3.0/plivo_windows_arm64.exe#/plivo.exe",
+      "hash": "4cd9d8008680c2375837602d79ea26f7beb45470ece06de42b798c9d03de73b0"
     }
   },
   "bin": "plivo.exe",
